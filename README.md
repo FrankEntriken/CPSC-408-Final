@@ -1,10 +1,10 @@
-# Assignment 3
+# Final Project
 
 Frank Entriken
 
 entriken@chapman.edu
 
-CPSC 408 - Final
+CPSC 408
 
 Runners Database
 
